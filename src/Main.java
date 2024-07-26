@@ -39,7 +39,7 @@ public class Main {
      * <p>
      * Now go through the listPossibleDestinationIndexesForPawn function below
      *
-     * Quiz 3: Write a new function listPossibleDestinationIndexesForRook yourself
+     * Quiz 4: Write a new function listPossibleDestinationIndexesForRook yourself
      * @param args
      */
     public static void main(String[] args) {
