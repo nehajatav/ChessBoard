@@ -27,3 +27,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/.idea/.gitignore
+/hellow.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
